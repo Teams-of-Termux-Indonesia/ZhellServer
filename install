@@ -5,4 +5,6 @@
 #####################################################
 pkg install figlet;
 figlet zhell Server;
+termux-setup-storage;
+mkdir /sdcard/htdocs;
 sh bin/install.sh;
