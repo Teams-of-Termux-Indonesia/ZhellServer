@@ -21,8 +21,8 @@ pkg install figlet
 figlet $PACKAGE_NAME
 
 # check if folder not exist
-#if [ ! -d "$DIR" ]; then
-#  mkdir $DIR
-#fi
+if [ ! -d "$DIR" ]; then
+  mkdir $DIR
+fi
 
 sh bin/install.sh
