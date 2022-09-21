@@ -1,6 +1,11 @@
 # ZhellServer
 <b>MINIMAL VERSI ANDROID 7+ ✅</b>
 <h4>SIZE 700mb Setelah Selesai penginstalan ✅</h4>
+<b>
+Letak folder htdocs ada di memori internal akan muncul setelah
+Selesai instalasi usahakan tetap terhubung ke jaringan internet
+Selama proses instalasi berlangsung bro 👍☺️
+</b>
 <div>
 <h2>WEB SERVER APACHE PHPMYADMIN MENGUNAKAN TERMUX</h2>
 <hr>
