@@ -51,11 +51,11 @@ chmod 777 install && ./install
 
 <hr>
 
-### database configuration
-```php
-host = 127.0.0.1
-username = root
-password = 1234
+
+###  Open NEW Session Termux
+
+```
+mysqld_safe
 ```
 
 ### default MYSQL configuration
@@ -65,6 +65,13 @@ use mysql;
 set password for 'root'@'localhost' = password('1234');
 flush privileges;
 quit;
+```
+
+### database configuration
+```php
+host = 127.0.0.1
+username = root
+password = 1234
 ```
 
 ### preview
