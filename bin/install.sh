@@ -1,11 +1,3 @@
-printf "\033[1;33m upgrade APT\033[0m\n";
-apt upgrade;
-printf "\033[1;33m update APT\033[0m\n";
-apt update;
-printf "\033[1;33m update package termux\033[0m\n";
-pkg update;
-printf "\033[1;33m upgrade package termux\033[0m\n";
-pkg upgrade;
 printf "\033[1;33m install php\033[0m\n";
 pkg install php;
 printf "\033[1;33m install composer\033[0m\n";
