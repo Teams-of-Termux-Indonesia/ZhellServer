@@ -27,6 +27,8 @@ httpd -t;
 rm -f $PREFIX/share/phpmyadmin/config.inc.php;
 cp -f bin/config.inc.php $PREFIX/share/phpmyadmin;
 printf "\033[1;33m install selesai full size: 700mb \033[1;31m^\033[0m\n";
+
 printf "\033[1;33m # Setting konfigurasi mysql\033[0m\n";
+
 sh bin/configmysql.sh;
 
