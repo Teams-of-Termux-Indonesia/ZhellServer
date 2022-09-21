@@ -1,5 +1,8 @@
 # ZhellServer
 <b>MINIMAL VERSI ANDROID 7+ ✅</b>
+<br>
+<img width="150px" src="https://img.shields.io/static/v1?label=BackEnd&message=Dev&color=crimson&style=flat-square">
+<br>
 <h4>SIZE 700mb Setelah Selesai penginstalan ✅</h4>
 <b>
 Letak folder htdocs ada di memori internal akan muncul setelah
