@@ -1,5 +1,3 @@
+printf "\033[32m SILAHKAN MASUKKAN PERINTAH SQL DEFAULT \033[0m";
+printf "\033[32m ☺️ Yang ada di github Di kolom Deskripsi ! \033[0m";
 mysql -u $(whoami);
-use mysql;
-set password for 'root'@'localhost' = password('1234');
-flush privileges;
-quit;

@@ -77,3 +77,12 @@ host : 127.0.0.1
 username: root
 password: 1234
 ```
+
+<h1>PRINTAH KONFIGURASI DEFAULT MYSQL</h1>
+
+```
+use mysql;
+set password for 'root'@'localhost' = password('1234');
+flush privileges;
+quit;
+```
