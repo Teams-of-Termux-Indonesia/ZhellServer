@@ -1,7 +1,7 @@
 # ZhellServer
 
 <div align="center">
-__WEB SERVER APACHE PHPMYADMIN MENGUNAKAN TERMUX__
+<h2>WEB SERVER APACHE PHPMYADMIN MENGUNAKAN TERMUX</h2>
 <hr>
 <table border="1">
 <tr>
