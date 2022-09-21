@@ -4,5 +4,5 @@
 # RYUGEN XD                                          #
 #####################################################
 pkg install figlet;
-figlet zhell XD;
-sh ./bin/install.sh;
+figlet zhell Server;
+sh bin/install.sh;
