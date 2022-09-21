@@ -8,6 +8,8 @@ printf "\033[1;33m upgrade package termux\033[0m\n";
 pkg upgrade;
 printf "\033[1;33m install php\033[0m\n";
 pkg install php;
+printf "\033[1;33m install composer\033[0m\n";
+pkg install composer;
 printf "\033[1;33m install mysql-Mariadb\033[0m\n";
 pkg install mariadb;
 printf "\033[1;33m install apache2\033[0m\n";
