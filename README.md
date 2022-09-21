@@ -1,6 +1,6 @@
 # ZhellServer
 
-<div align="center">
+<div>
 <h2>WEB SERVER APACHE PHPMYADMIN MENGUNAKAN TERMUX</h2>
 <hr>
 <table border="1">
