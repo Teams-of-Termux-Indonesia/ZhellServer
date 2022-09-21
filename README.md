@@ -86,3 +86,16 @@ set password for 'root'@'localhost' = password('1234');
 flush privileges;
 quit;
 ```
+
+<h3> preview </h1>
+<table border="0">
+<td>
+<img  width="200" src="preview/IMG_20220921_133414.jpg">
+</td>
+<td>
+<img  width="200" src="preview/IMG_20220921_133723.jpg">
+</td>
+<td>
+<img  width="200" src="preview/IMG_20220921_133911.jpg">
+</td>
+</table>
