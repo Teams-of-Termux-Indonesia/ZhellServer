@@ -1,0 +1,8 @@
+#!/bin/bash  
+######################################################
+# INSTANT INSTALASI WEBSERVER APACHE MYSQL PHPMYADMIN#
+# RYUGEN XD                                          #
+#####################################################
+pkg install figlet;
+figlet zhell XD;
+sh ./bin/install.sh;
