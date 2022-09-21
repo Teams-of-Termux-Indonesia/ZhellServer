@@ -1,10 +1,21 @@
 #!/bin/bash  
+
 ######################################################
 # INSTANT INSTALASI WEBSERVER APACHE MYSQL PHPMYADMIN#
 # RYUGEN XD                                          #
 #####################################################
-pkg install figlet;
-figlet zhell Server;
-termux-setup-storage;
-mkdir /sdcard/htdocs;
-sh bin/install.sh;
+
+$DIR="/sdcard/htdocs"
+$PACKAGE_NAME="zhell server"
+
+termux-setup-storage
+
+pkg install figlet
+figlet $PACKAGE_ENAME
+
+# check if folder not exist
+if [ ! -d "$DIR" ]; then
+  mkdir $DIR
+fi
+
+sh bin/install.sh
