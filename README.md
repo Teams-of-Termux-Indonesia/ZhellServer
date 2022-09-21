@@ -1,5 +1,6 @@
 # ZhellServer
-# MINIMAL ANDROID 7+
+# MINIMAL VERSI ANDROID 7+ ✅
+# SIZE 700mb Setelah Selesai penginstalan ✅
 <div>
 <h2>WEB SERVER APACHE PHPMYADMIN MENGUNAKAN TERMUX</h2>
 <hr>
