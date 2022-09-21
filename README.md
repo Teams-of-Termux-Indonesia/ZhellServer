@@ -70,14 +70,11 @@ chmod 777 install;
 
 </div>
 <hr>
-<h1>Konfigurasi default  MySQL </h1>
-
-```
-default konfigurasi mysql
-host : 127.0.0.1
-username: root
-password: 1234
-```
+host = 127.0.0.1
+<br>
+username = root
+<br>
+password = 1234
 
 <h1>PRINTAH KONFIGURASI DEFAULT MYSQL</h1>
 
