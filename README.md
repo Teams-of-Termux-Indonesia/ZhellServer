@@ -70,6 +70,7 @@ chmod 777 install;
 
 </div>
 <hr>
+<h3>koneksi database</h3>
 host = 127.0.0.1
 <br>
 username = root
