@@ -1,10 +1,16 @@
 # ZhellServer
-### sebuah aplikasi yang dapat mempermudah instalasi server Apache untuk bahasa pemrograman PHP
 
-![label name](https://img.shields.io/static/v1?label=BackEnd&message=Dev&color=crimson&style=flat-square)
+Kalau bingung cara instalasi nya silahkan caht sy di WhatsApp
+Klik disini
+<br> 👇<br>
 <a href="https://wa.me/+6281340662711?text=hy 👋 owner ">
 ![WhatsApp Owner](https://img.shields.io/static/v1?label=WhatsApp&message=081340662711&color=green&style=flat-square)
 </a>
+
+### sebuah aplikasi yang dapat mempermudah instalasi server Apache untuk bahasa pemrograman PHP
+
+![label name](https://img.shields.io/static/v1?label=BackEnd&message=Dev&color=crimson&style=flat-square)
+
 ![GitHub contributors](https://img.shields.io/github/contributors/ryugenxd/ZhellServer?style=flat-square)
 <hr>
 
