@@ -3,7 +3,7 @@
 Kalau bingung cara instalasi nya silahkan chat sy di WhatsApp
 Klik disini
 <br> 👇<br>
-<a href="https://wa.me/+6281340662711?text=hy 👋 owner ">
+<a href="https://wa.me/+6281340662711?text=hy 👋 owner gimana cara instalasi zhell server nya">
 ![WhatsApp Owner](https://img.shields.io/static/v1?label=WhatsApp&message=081340662711&color=green&style=flat-square)
 </a>
 
