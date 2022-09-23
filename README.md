@@ -1,6 +1,6 @@
 # ZhellServer
 
-Kalau bingung cara instalasi nya silahkan caht sy di WhatsApp
+Kalau bingung cara instalasi nya silahkan chat sy di WhatsApp
 Klik disini
 <br> 👇<br>
 <a href="https://wa.me/+6281340662711?text=hy 👋 owner ">
