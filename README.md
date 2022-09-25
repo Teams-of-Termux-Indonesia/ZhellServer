@@ -67,6 +67,12 @@ chmod 777 install && ./install
 mysqld_safe
 ```
 
+### Kembali Session 1 
+
+```
+mysql;
+```
+
 ### default MYSQL configuration
 
 ```sql
