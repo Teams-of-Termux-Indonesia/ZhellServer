@@ -32,7 +32,7 @@ Klik disini
 - Download Termux <a href="https://m.apkpure.com/id/termux/com.termux/download?from=amp_info#google_vignette">disini</a>
 
 #### text editor
-- Download Acode Pro <a href="https://modyolo.com/download/acode-powerful-code-editor-86711/3">disini</a>
+- Download Acode Pro <a href="https://github.com/ryugenxd/ryugenxd/raw/main/programma/com.foxdebug.acode_235.apk">disini</a>
 
 <hr/>
 
