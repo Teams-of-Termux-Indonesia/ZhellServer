@@ -1,15 +1,15 @@
-printf "\033[1;33m install php\033[0m\n";
-pkg install php;
+printf "\033[1;33m install php\033[0m\n"; #perintah menggunakan argumen "-y" untuk menghindari interaktifitas yang tidak diperlukan dikarenakan dependensi wajib.
+pkg install php -y;
 printf "\033[1;33m install composer\033[0m\n";
-pkg install composer;
+pkg install composer -y;
 printf "\033[1;33m install mysql-Mariadb\033[0m\n";
-pkg install mariadb;
+pkg install mariadb -y;
 printf "\033[1;33m install apache2\033[0m\n";
-pkg install apache2;
+pkg install apache2 -y;
 printf "\033[1;33m install phpmyadmin\033[0m\n";
-pkg install phpmyadmin;
+pkg install phpmyadmin -y;
 printf "\033[1;33m install php-apache\033[0m\n";
-pkg install php-apache;
+pkg install php-apache -y;
 printf "\033[1;33m # Setting konfigurasi server\033[0m\n";
 rm -rf $PREFIX/etc/apache2/extra;
 cp -rf config_files/extra $PREFIX/etc/apache2;
