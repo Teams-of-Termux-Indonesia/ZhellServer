@@ -25,4 +25,4 @@ if [ ! -d "$DIR" ]; then
   mkdir $DIR
 fi
 
-sh bin/install.sh
+sh scripts/install.sh
