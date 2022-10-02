@@ -29,7 +29,7 @@ Klik disini
 ### installation requirement
 
 #### termux (terminal linux)
-- Download Termux <a href="https://m.apkpure.com/id/termux/com.termux/download?from=amp_info#google_vignette">disini</a>
+- Download Termux <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">disini</a>
 
 #### text editor
 - Download Acode Pro <a href="https://github.com/ryugenxd/ryugenxd/raw/main/programma/com.foxdebug.acode_235.apk">disini</a>
