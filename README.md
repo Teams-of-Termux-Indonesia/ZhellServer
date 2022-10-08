@@ -1,13 +1,13 @@
 # ZhellServer
 
-Kalau bingung cara instalasi nya silahkan chat sy di WhatsApp
+Kalau bingung cara instalasinya silahkan chat saya di WhatsApp
 Klik disini
 <br> 👇<br>
 <a href="https://wa.me/+6281340662711?text=hy 👋 owner gimana cara instalasi zhell server nya">
 ![WhatsApp Owner](https://img.shields.io/static/v1?label=WhatsApp&message=081340662711&color=green&style=flat-square)
 </a>
 
-### sebuah aplikasi yang dapat mempermudah instalasi server Apache untuk bahasa pemrograman PHP
+### Sebuah script yang memudahkan instalasi server Apache untuk bahasa pemrograman PHP di android
 
 ![label name](https://img.shields.io/static/v1?label=BackEnd&message=Dev&color=crimson&style=flat-square)
 
@@ -26,54 +26,53 @@ Klik disini
 
 <hr>
 
-### installation requirement
 
-#### termux (terminal linux)
-- Download Termux <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">disini</a>
+#### Termux (wajib)
+- Download Termux <a href="https://f-droid.org/en/packages/com.termux/">disini</a>
 
-#### text editor
-- Download Acode Pro <a href="https://github.com/ryugenxd/ryugenxd/raw/main/programma/com.foxdebug.acode_235.apk">disini</a>
 
+#### Android Text Editor (opsional)
+- Download Acode <a href="https://f-droid.org/en/packages/com.foxdebug.acode/">disini</a>
 <hr/>
 
-### step installation
+### Langkah Instalasi
 
 ```shell
-# update && upgrade package
-apt update && apt upgrade || pkg update && pkg upgrade
+# update database package manager (apt)
+apt update
 ```
 
 ```shell
-# install git package
+# install package git
 pkg install git -y
 ```
 
 ```shell
-# clone this project
+# clone project ini
 git clone https://github.com/ryugenxd/ZhellServer && cd ZhellServer
 ```
 
 ```shell
-# run this project
+# jalankan project ini
 chmod 777 install && ./install
 ```
 
 <hr>
 
 
-###  Open NEW Session Termux
+###  Menjalankan server MariaDB
 
 ```
 mysqld_safe
 ```
 
-### Kembali Session 1 
+###  Masuk sesi MariaDB
 
 ```
 mysql;
 ```
 
-### default MYSQL configuration
+###  Melakukan pengaturan awal database MariaDB
 
 ```sql
 use mysql;
