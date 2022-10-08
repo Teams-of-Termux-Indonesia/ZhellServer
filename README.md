@@ -26,10 +26,10 @@ Klik disini
 
 <hr>
 
-### Dependensi/Prasyarat
 
 #### Termux (wajib)
 - Download Termux <a href="https://f-droid.org/en/packages/com.termux/">disini</a>
+
 
 #### Android Text Editor (opsional)
 - Download Acode <a href="https://f-droid.org/en/packages/com.foxdebug.acode/">disini</a>
