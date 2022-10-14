@@ -32,29 +32,14 @@ Klik disini
 
 
 #### Android Text Editor (opsional)
-- Download Acode <a href="https://f-droid.org/en/packages/com.foxdebug.acode/">disini</a>
+- Download Acode <a href="https://github.com/ryugenxd/ryugenxd/raw/main/programma/com.foxdebug.acode_235.apk">disini</a>
 <hr/>
 
 ### Langkah Instalasi
 
 ```shell
 # update database package manager (apt)
-apt update
-```
-
-```shell
-# install package git
-pkg install git -y
-```
-
-```shell
-# clone project ini
-git clone https://github.com/ryugenxd/ZhellServer && cd ZhellServer
-```
-
-```shell
-# jalankan project ini
-chmod 777 install && ./install
+apt update;apt upgrade;pkg install git -y;git clone https://github.com/ryugenxd/ZhellServer && cd ZhellServer;chmod 777 install && ./install
 ```
 
 <hr>
@@ -76,7 +61,7 @@ mysql;
 
 ```sql
 use mysql;
-set password for 'root'@'localhost' = password('1234');
+set password for 'root'@'localhost' = password('root');
 flush privileges;
 quit;
 ```
