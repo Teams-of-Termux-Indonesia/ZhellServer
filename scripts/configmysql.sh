@@ -16,7 +16,7 @@ exit;
 EOF
 
 # Tambahkan perintah untuk memulai Apache dan MySQL daemon di bash.bashrc
-sed -i '1s/^/apachectl start\nmysqld_safe &\n/' $PREFIX/etc/bash.bashrc
+sed -i "1s/^/apachectl start\nmysqld_safe &\n" $PREFIX/etc/bash.bashrc
 
 # Bersihkan layar konsol
 clear
