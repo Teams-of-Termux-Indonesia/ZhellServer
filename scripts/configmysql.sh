@@ -27,8 +27,9 @@ clear
 printf "\033[1;35m"
 figlet $PACKAGE_NAME
 # Tampilkan pesan sukses dan keterangan login
-printf "\033[33m Konfigurasi Database:\nHOST : 127.0.0.1\nUSERNAME : root\nPASSWORD : root\n"
-printf "\033[32m Konfigurasi Berhasil!"
-printf "\nURL LOCAL SEVER  : http://localhost:8080"
+printf "\033[33mKonfigurasi Database:\nHOST : 127.0.0.1\nUSERNAME : root\nPASSWORD : root\n"
+printf "\033[32mKonfigurasi Berhasil!"
+printf "\n\033[0m-------------------------------"
+printf "\n\033[1;33mURL LOCAL SEVER  : \033[1;34mhttp://localhost:8080\033[1;33m"
 printf "\nHTDOCS PATCH : /sdcard/htdocs/"
-printf "\033[32m Selamat Bro!\n"
+printf "\033[1;32m\nSelamat Bro!\n"
