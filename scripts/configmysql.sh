@@ -9,11 +9,11 @@ mysqld_safe &
 sleep 6
 
 # Login ke akun root MySQL menggunakan perintah mysql
-mysql -u root <<EOF
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
-FLUSH PRIVILEGES;
-exit;
-EOF
+# mysql -u root <<EOF
+# ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+# FLUSH PRIVILEGES;
+# exit;
+# EOF
 
 # Tambahkan perintah untuk memulai Apache dan MySQL daemon di bash.bashrc
 sed -i "1s/^/apachectl start\nmysqld_safe &\n" $PREFIX/etc/bash.bashrc
