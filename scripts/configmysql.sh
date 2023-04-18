@@ -7,6 +7,8 @@ printf "\033[1;33m konfigurasi : MySQL \033[0m\n"
 # Mulai MySQL daemon
 mysqld_safe &
 
+printf "\033[1;34mLOADING ...!\n"
+
 # Tunggu hingga MySQL daemon selesai diinisialisasi
 sleep 6
 
