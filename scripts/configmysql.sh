@@ -26,8 +26,13 @@ FLUSH PRIVILEGES;
 exit;
 EOF
 
-# Tambahkan perintah untuk memulai Apache dan MySQL daemon di bash.bashrc
-echo "mysqld_safe &\napachectl start" >> $PREFIX/etc/bash.bashrc
+# Tambahkan perintah untuk memulai Apache dan MySQL daemon di bash.bashrc dan cek apakah sudah ada jika suda maka tidak pelu di tambahkan
+if ! grep -q "mysqld_safe" "$PREFIX/etc/bash.bashrc"; then
+  echo "mysqld_safe &" >> "$PREFIX/etc/bash.bashrc"
+fi
+if ! grep -q "apachectl start" "$PREFIX/etc/bash.bashrc"; then
+  echo "apachectl start" >> "$PREFIX/etc/bash.bashrc"
+fi
 
 # Bersihkan layar konsol
 clear
