@@ -1,4 +1,13 @@
 # ZhellServer
+
+
+<div align="center">
+ <img src="./Screenshot 2023-04-18 20.36.07.png" width="200px">
+</div>
+
+___
+
+
 ```txt
 DOKUMENTASI SINGKAT
 
