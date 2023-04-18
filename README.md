@@ -94,7 +94,7 @@ apt update;apt upgrade;pkg install git -y;git clone https://github.com/ryugenxd/
 
 
 <details>
- <summary><h3>Termux Features After Installation<h3></summary>
+ <summary><h3>Fitur Termux Setelah Instalasi<h3></summary>
  
 - SQL DATABASE (mariadb) ✅
 - .htaccess support ✅
