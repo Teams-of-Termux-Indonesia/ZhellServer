@@ -47,6 +47,7 @@ do
     read confirm
     if [ "$confirm" = "y" ]
     then
+        termux-reload-settings
         login
         break
     fi
