@@ -34,7 +34,7 @@ apt update;apt upgrade;pkg install git -y;git clone https://github.com/ryugenxd/
 
 
 <details>
-<sumary># features</sumary>
+<summary># features</summary>
 - SQL DATABASE (mariadb) ✅
 - .htaccess support ✅
 - webserver apache2 ✅
