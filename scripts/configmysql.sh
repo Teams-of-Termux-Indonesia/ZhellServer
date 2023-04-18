@@ -31,12 +31,12 @@ printf "\033[33mKonfigurasi Database:\nHOST : 127.0.0.1\nUSERNAME : root\nPASSWO
 printf "\033[32mKonfigurasi Berhasil!"
 printf "\n\033[0m-------------------------------"
 printf "\n\033[1;33mURL LOCAL SEVER  : \033[1;34mhttp://localhost:8080\033[1;33m"
-printf "\nHTDOCS PATCH : /sdcard/htdocs/"
+printf "\nHTDOCS PATCH : \033[1;34m/sdcard/htdocs/"
 printf "\033[1;32m\nSelamat Bro!\n"
-printf "\033[1;33mWARNING : Server Lokal tidak akan berjalan jika aplikasi termux tidak di reload !"
+printf "\033[1;33mWARNING : \033[41;37mServer Lokal tidak akan berjalan jika aplikasi termux tidak di reload !"
 while [ true ]
 do
-    printf "\nReload (y): "
+    printf "\n\033[1;31mReload (y): "
     read confirm
     if [ "$confirm" == "y" ] && [ "${#confirm}" -eq 1 ]
     then
