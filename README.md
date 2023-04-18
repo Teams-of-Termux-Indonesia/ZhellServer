@@ -7,7 +7,9 @@ Klik disini
 ![WhatsApp Owner](https://img.shields.io/static/v1?label=WhatsApp&message=081340662711&color=green&style=flat-square)
 </a>
 
-# Sebuah script yang memudahkan instalasi server Apache untuk bahasa pemrograman PHP di android
+ ```txt
+ Sebuah script yang memudahkan instalasi server Apache untuk bahasa pemrograman PHP di android
+```
 
 ![label name](https://img.shields.io/static/v1?label=BackEnd&message=Dev&color=crimson&style=flat-square)
 
