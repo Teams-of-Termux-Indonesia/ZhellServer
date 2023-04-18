@@ -31,7 +31,7 @@ sed -i "1s/^/apachectl start\nmysqld_safe &\n" $PREFIX/etc/bash.bashrc
 
 # Bersihkan layar konsol
 clear
-printf "\033[1;35m"
+printf "\033[1;32m$PACKAGE_NAME"
 
 # Tampilkan pesan sukses dan keterangan login
 printf "\033[33mKonfigurasi Database:\n \033[41;37mHOST\033[0m : 127.0.0.1\n \033[41;37mUSERNAME\033[0m : root\n \033[41;37mPASSWORD\033[0m : root\n"
@@ -45,9 +45,9 @@ while [ true ]
 do
     printf "\n\n\033[1;32mReload (\033[1;33mketik y lalu enter\033[0m):\033[0m "
     read confirm
-    if [ "$confirm" == "y" ]
+    if [ "$confirm" = "y" ]
     then
-        echo "ok"
+        login
         break
     fi
 done
