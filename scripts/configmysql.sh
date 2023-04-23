@@ -54,7 +54,7 @@ do
     then
         termux-reload-settings
         login
-        printf "\033[41;37mTekan Enter .... \033[0m"
+        printf "\033[41;37mExit Lagi Masbro .... \033[0m"
         break
     fi
 done
