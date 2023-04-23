@@ -69,7 +69,7 @@ jika folder nya sudah tersedia jangan hawatir itu tidak akan berpengaruh  ke kod
 
 [ CARA MENJALANKAN SETELAH INSTALASI ]
 
-kalian hanya membuka termux dan biarkan berjalan di aplikasi latar belakang
+kalian hanya membuka termux dan biarkan berjalan  latar belakang
 dan membuka aplikasi text editor yang ingin di gunakan untuk menulis file ke folder htdocs.
 
 ```
