@@ -37,7 +37,7 @@ mungkin ini kabar baik untuk kalian para subscriber yang ngoding di hp tapi hany
 kekurangan teknologi penunjang.
 
 Dengan adanya tool installer ini mungkin bisa membantu kalian yang mau lanjut ke php (OOP,PDO),phpmvc,dan framework php modern .
-di aplikasi termux ini kalain bisa sampai express di bidang php hanya mengunakan hp sampai ke framework laravel
+di aplikasi termux ini kalain bisa sampai expert di bidang php hanya mengunakan hp sampai ke framework laravel
 tetapi saya mengunakan konfigurasi ini dulu nya untuk support rewrite_engine php di android 
 untuk playlist php MVC yang mengunakan rewrite_engine (support .htaccess).
 
