@@ -28,7 +28,7 @@ saya sudah merancang dan memudahkan user untuk mengunakan nya ini adalah v0.2
 di mana versi 0.2 ini lebih simpel dari v0.1 yang konfigurasi nya tidak sepenuh nya otomatis 
 dan masi  mengunakan sedikit cara manual. 
 
-kabar baik nya di versi kali ini, hanya install termux dan menjalankan script. link termux nya harus dari repo ini untuk 
+kabar baik nya di versi kali ini hanya install termux dan menjalankan script. link termux nya harus dari repo ini untuk 
 mencegah masalah erorr dalam instalasi , masalah keaman aplikasi termux nya jangan hawatir soal nya proses development nya bisa kita pantau dari 
 github resmi nya https://github.com/termux/termux-app.
 
