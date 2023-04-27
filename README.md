@@ -25,7 +25,7 @@ dan menambahkan fitur rewrite_mode/rewrite_engine apache2 yang belum ada  didapa
 yang sangat tidak powerfull dan di tambahlagi tidak bisa mengunakan framework php modern seprti laravel 8,9,10^ dan codeigniter 4.
 
 saya sudah merancang dan memudahkan user untuk mengunakan nya ini adalah v0.2 
-di mana versi 0.2 ini, lebih simpel dari v0.1 yang konfigurasi nya tidak sepenuh nya otomatis 
+di mana versi 0.2 ini lebih simpel dari v0.1 yang konfigurasi nya tidak sepenuh nya otomatis 
 dan masi  mengunakan sedikit cara manual. 
 
 kabar baik nya di versi kali ini, hanya install termux dan menjalankan script. link termux nya harus dari repo ini untuk 
