@@ -16,9 +16,6 @@ cp -rf config_files/extra $PREFIX/etc/apache2;
 rm -f $PREFIX/etc/apache2/httpd.conf;
 cp -f config_files/httpd.conf $PREFIX/etc/apache2;
 httpd -t;
-rm -f $PREFIX/share/phpmyadmin/config.inc.php;
-cp -f config_files/config.inc.php $PREFIX/share/phpmyadmin;
-mv $PREFIX/share/phpmyadmin /sdcard/htdocs; #add anu anu
 printf "\033[1;33m install selesai full size: 700mb \033[1;31m^\033[0m\n";
 printf "\033[1;33m # Setting konfigurasi mysql\033[0m\n";
 sh scripts/configmysql.sh;
