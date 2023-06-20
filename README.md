@@ -1,5 +1,9 @@
 # ZhellServer
 
+Join Discord :
+```url
+https://discord.com/channels/1113127560948228106/1120578193997430814
+```
 
 <div align="center">
  <img src="./Screenshot 2023-04-18 20.36.07.png" width="200px">
