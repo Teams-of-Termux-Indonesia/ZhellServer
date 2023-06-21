@@ -1,3 +1,6 @@
+# CARA INSTALASI 
+https://youtu.be/iRQgreTb9Ac
+
 # ZhellServer
 
 Join Discord :
