@@ -62,7 +62,7 @@ _ jika instalsi berhenti dan memunculkan opsi pertanyan dengan tulisan bahasa in
 
 _ Jika sudah selesai baca tulisan yang muncul di tool installer nya :)
 
-_ Kalau ada yang ingin di tanyakan kontak whatsapp sy bre https://discord.com/channels/1113127560948228106/1120578193997430814
+_ Kalau ada yang ingin di tanyakan join discord saya  https://discord.com/channels/1113127560948228106/1120578193997430814
 
 
 
