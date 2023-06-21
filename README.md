@@ -62,8 +62,8 @@ _ jika instalsi berhenti dan memunculkan opsi pertanyan dengan tulisan bahasa in
 
 _ Jika sudah selesai baca tulisan yang muncul di tool installer nya :)
 
-_ Kalau ada yang ingin di tanyakan kontak whatsapp sy bre +62 813-4066-2711 
- ~ hehehe malas buat anchor(a href) ke chat whatsapp
+_ Kalau ada yang ingin di tanyakan kontak whatsapp sy bre https://discord.com/channels/1113127560948228106/1120578193997430814
+
 
 
 
