@@ -96,7 +96,7 @@ Ini adalah sebuah script yang memudahkan instalasi server Apache untuk bahasa pe
 
 
 # Android Text Editor (opsional)
-- Download Black Acode (No ADS) <a href="https://github.com/ryugenxd/ryugenxd/raw/main/programma/com.foxdebug.acode_235.apk">Klik Disini</a>
+- Download Black Acode (No ADS) <a href="https://github.com/ryugenxd/ryugenxd/raw/main/programma/acode.apk">Klik Disini</a>
 <hr/>
 
 # SCRIPT INSTALASI
