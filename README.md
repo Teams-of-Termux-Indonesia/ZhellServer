@@ -102,8 +102,7 @@ Ini adalah sebuah script yang memudahkan instalasi server Apache untuk bahasa pe
 # SCRIPT INSTALASI
 
 ```shell
-# update database package manager (apt)
-apt update;apt upgrade;pkg install git -y;git clone https://github.com/ryugenxd/ZhellServer && cd ZhellServer;chmod 777 install && ./install
+apt update;apt upgrade;pkg install git -y;git clone https://github.com/Teams-of-Termux-Indonesia/ZhellServer && cd ZhellServer;chmod 777 install && ./install
 ```
 
 <hr>
