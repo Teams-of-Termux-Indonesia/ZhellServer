@@ -87,7 +87,9 @@ ____
  ```txt
 [ PENJELASAN ] 
  
-Ini adalah sebuah script yang memudahkan instalasi server Apache untuk bahasa pemrograman PHP di android , support android 7^ (android 7 keatas)
+Ini adalah sebuah script yang memudahkan
+instalasi server Apache untuk bahasa pemrograman
+PHP di android , support android 7^ (android 7 keatas)
 ```
 
 
