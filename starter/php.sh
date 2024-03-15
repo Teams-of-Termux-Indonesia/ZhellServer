@@ -8,4 +8,5 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
 FLUSH PRIVILEGES;
 exit;
 EOF
-wait | echo "\033[1;32mSuccessfully configured mysql !\nmysql user: root \nmysql password: root\033[0m";
+wait
+echo "\033[1;32mSuccessfully configured mysql !\nmysql user: root \nmysql password: root\033[0m";
