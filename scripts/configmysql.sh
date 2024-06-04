@@ -12,7 +12,7 @@ PACKAGE_NAME="
 printf "\033[1;33m konfigurasi : MySQL \033[0m\n"
 
 # Mulai MySQL daemon
-mysqld_safe &
+mysqld_safe --skip-grant-tables &
 
 printf "\033[1;34mLOADING ...!\n"
 
@@ -20,14 +20,14 @@ printf "\033[1;34mLOADING ...!\n"
 sleep 6
 
 # Login ke akun root MySQL menggunakan perintah mysql
-mysql -u root <<EOF
+mariadb -u root <<EOF
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
 FLUSH PRIVILEGES;
 exit;
 EOF
 
 # Tambahkan perintah untuk memulai Apache dan MySQL daemon di bash.bashrc dan cek apakah sudah ada jika suda maka tidak pelu di tambahkan
-if ! grep -q "mysqld_safe" "$PREFIX/etc/bash.bashrc"; then
+if ! grep -q "mysqld_safe --skip-grant-tables &" "$PREFIX/etc/bash.bashrc"; then
   echo "mysqld_safe &" >> "$PREFIX/etc/bash.bashrc"
 fi
 if ! grep -q "apachectl start" "$PREFIX/etc/bash.bashrc"; then
