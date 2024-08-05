@@ -5,7 +5,7 @@
 <br>
 <img src="./community.svg"/>
 
-
+<br>
 <article>
 php , apache2 and mysql mariadb starter kit for termux android.
 </article>
@@ -29,6 +29,7 @@ chmod 777 install;
 ____
 
 ### Thanks for :
-- me
-- @fiandev
-- @celengbalap
+
+- [RyugenXD](https://github.com/ryugenxd)
+- [FianDev](https://github.com/fiandev)
+- [Anonymous Contributor](https://github.com/celengbalap)
