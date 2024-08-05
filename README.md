@@ -1,4 +1,4 @@
-<center><div>
+<div align="center">
 
 ### TERMUX INDONESIA COMMUNITY
 <img src="./opensource_logo_icon.png"/>
@@ -13,7 +13,7 @@ php , apache2 and mysql mariadb starter kit for termux android.
 ____
 
 
-</div></center>
+</div>
 
 
 ```bash
