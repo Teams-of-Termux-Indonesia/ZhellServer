@@ -1,31 +1,30 @@
 <div align="center">
 
 ### TERMUX INDONESIA COMMUNITY
-<img src="./opensource_logo_icon.png"/>
-<br>
-<img src="./community.svg"/>
 
-<br>
-<article>
-php , apache2 and mysql mariadb starter kit for termux android.
-</article>
-
-____
-
+<img style="width: 100%" src="./community.svg" alt="Community"/>
 
 </div>
 
+---
+<p>
+A PHP, Apache2, and MySQL (MariaDB) starter kit for Termux on Android.
+</p>
+
+## Setup
+Run the following command in Termux.
+
+### Install curl
 
 ```bash
-pkg install git -y;
-cd $HOME;
-git clone https://github.com/Teams-of-Termux-Indonesia/ZhellServer;
-cd $HOME/ZhellServer;
-chmod 777 install;
-./install;
+pkg install curl -y
 ```
 
+### Run setup script via curl
 
+```bash
+curl -fsSL https://raw.githubusercontent.com/Teams-of-Termux-Indonesia/ZhellServer/main/setup.sh | bash
+```
 ____
 
 ### Thanks for :
